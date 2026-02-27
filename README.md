@@ -1,6 +1,6 @@
 # Principle component analysis for finance
 ## 1. Principle component analysis to analyse stock returns
-
+`stockPricePrediction.py`
 
 ## 2.
 
