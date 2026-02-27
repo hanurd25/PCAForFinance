@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 # Step 2: Load the dataset (S&P 500 data)
-stock_data = yf.download('AAPL', start='2020-01-01', end='2021-01-01')
+stock_data = yf.download('AAPL', start='2024-08-08', end='2026-01-01')
 # Step 3: Feature Engineering - adding technical indicators
 stock_data['SMA_20'] = stock_data['Close'].rolling(window=20).mean()
 stock_data['SMA_50'] = stock_data['Close'].rolling(window=50).mean()
