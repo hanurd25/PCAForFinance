@@ -2,6 +2,10 @@
 ## 1. Principle component analysis to analyse stock returns
 `stockPricePrediction.py` Uses open, high, low, close, volume (OHLCV) data, collected via the yfinance library, to preduct future close prices by using linear regression.
 
+
+Two principle components is extracted from the stock data. These two explaine a large portion of the variance.
+
+
 ## 2.
 
 
