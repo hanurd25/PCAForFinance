@@ -5,7 +5,7 @@
 
 Two principle components is extracted from the stock data. These two explaine a large portion of the variance.
 
-[The medium artirle](https://medium.com/@heyamit10/principal-component-analysis-in-stock-price-prediction-2a7407f2df25) explains when to not use principle component analysis in stock price prediction.
+[The medium artirle [1]](https://medium.com/@heyamit10/principal-component-analysis-in-stock-price-prediction-2a7407f2df25) explains when to not use principle component analysis in stock price prediction.
 
 ## 2.
 
